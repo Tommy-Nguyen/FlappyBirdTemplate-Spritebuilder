@@ -11,6 +11,6 @@
 
 @interface MainScene : GamePlayScene
 
--(void) gameOver;
+- (void) gameOver;
 
 @end
